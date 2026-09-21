@@ -1,0 +1,14 @@
+zsecrets/
+.DS_Store
+.env
+.venv/
+node_modules/
+.next/
+.coverage
+.pytest_cache/
+.ruff_cache/
+**/__pycache__/
+**/*.egg-info/
+data/crawled/
+data/index/
+evaluations/results/
